@@ -54,7 +54,6 @@
     <div class="header">
     	<a class="logo" href="/"><img src="i/logo.png" alt="Project"></a>
     	<div class="author">Автор: <span class="author__name">***</span></div>
-        <div class="author"><span class="author__name">///</span></div>
     </div>
 
     <div class="clear">
@@ -64,7 +63,6 @@
             <li><a href="#">Контакты</a></li>
             <li><a href="#">Новости</a></li>
             <li><a href="#">Каталог</a></li>
-            <li><a href="#">Товары</a></li>
         </ul>
     </div>
 
